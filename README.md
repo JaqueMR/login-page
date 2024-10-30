@@ -6,5 +6,4 @@ Este projeto é uma página de login desenvolvida em HTML e CSS, projetada apena
 
 - **HTML**
 - **CSS**
-- **Font Awesome** (para ícones)
-- **Google Fonts** (para estilização de texto)
+
